@@ -1,0 +1,161 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "title":"IQ Test",
+      "image":"https://play-lh.googleusercontent.com/N96AyM9gIV7vzMksZfQwM3dpk8F4H1KiMeJKon5xqb-p8iKbkUtArL7SAhvYRhIuRPJT=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "title":"10K Skin",
+      "image":"more/10k.png",
+      "link":"https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Chibi Boys",
+      "install_skin": "https://raw.githubusercontent.com/aliendroid-kim/skinview.github.io/main/boy1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Chibi Boys",
+      "install_skin": "https://raw.githubusercontent.com/aliendroid-kim/skinview.github.io/main/boy2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Chibi Boys",
+      "install_skin": "https://lh3.googleusercontent.com/E4NOm95UElDvxncbcQ8ZlxBg7W9NSsG5izfkRI5mQxnnsO1bfKiARU0BQySTs9y8Z1h2O8n_qa80c7KagRPf9A"
+    },
+    {
+      "id": 4,
+      "name_skin": "Chibi Boys",
+      "install_skin": "https://lh3.googleusercontent.com/7cgVB-7Kr2CXZyF3xpmUakDhd6hY56yuxtcTnd73vy48IQzdpVGNjrO1EcfCG0FFqjKacZbo3DKwYcyoVshL"
+    },
+    {
+      "id": 5,
+      "name_skin": "Chibi Boys",
+      "install_skin": "https://lh3.googleusercontent.com/POZXxnShDVidcL1EhJpufYExDhKYi7t9HyVrCrCdVHna3akrfrWhgliXNN84I1fQxVFr5BKcTHo_auR0SlkM"
+    },
+    {
+      "id": 6,
+      "name_skin": "Chibi Boys",
+      "install_skin": "https://lh3.googleusercontent.com/F7Qmm01zIm94PDKDZ4xmU1EQdqkUsoPVNZUwl8EtPfNtAVqwGgJcqfbrChZVf-zTiJ4pK5EJXhOVijmQErKJCg"
+    },
+    {
+      "id": 7,
+      "name_skin": "Chibi Boys",
+      "install_skin": "https://lh3.googleusercontent.com/6uqCvEdDG2M8mvySog80jwZpL9BpcT_rKtE8-3kKYzmBDSvl3wjH03XcjPpXtm1KLWsVBgVkKwZ5SqyskNxfMl0"
+    },
+    {
+      "id": 8,
+      "name_skin": "Chibi Boys",
+      "install_skin": "https://lh3.googleusercontent.com/zngH8tCH6pabtrQAxXEaV38Yt8NTHV6CB-bjnY-c0PMwTl6oOcrlNASWl4WGYyAXRFoblMF6BNvve7su17kBhUYYrmPIe4KoZUs"
+    },
+    {
+      "id": 9,
+      "name_skin": "Chibi Boys",
+      "install_skin": "https://lh3.googleusercontent.com/1FBrQ6mQJ171GZ8d7D95ymzOZeN8xwo-72Aw2vLw_FJfCQ1LZdAsht1-ORiH9wjvlig6nnpnAFFOvNsOIOB_RNg"
+    },
+    {
+      "id": 10,
+      "name_skin": "Boys",
+      "install_skin": "https://lh3.googleusercontent.com/IzRPKFBBaUYTLx-HDf43BrUqZhBpP388lYE0165e2tR_0Vb-iie9FW8aj-fPZ0JSPi_B-UjWfBivoeVbB6K_jeI"
+    },
+    {
+      "id": 11,
+      "name_skin": "Boys",
+      "install_skin": "https://lh3.googleusercontent.com/UMMhfB3hRjxaz7FtQCxHjoE8466oP9-1q_KeFXgNFqpvs8yK3MXrqQUiW6nmElH7Su5dIkuoBZqC4ifsiZPa4jg"
+    },
+    {
+      "id": 12,
+      "name_skin": "Boys",
+      "install_skin": "https://lh3.googleusercontent.com/qcQo5bO65mcAUPTMwrkTO8bVmmolFMcM2n4ygvClMHyfPcdDsFWJlpxvAPdUQN5JD7XAczAKoW5kmWD1RsnU"
+    },
+    {
+      "id": 13,
+      "name_skin": "Boys",
+      "install_skin": "https://lh3.googleusercontent.com/COOVb8v5G_DBFEfbfCVwbJXqXwNZIsClT_HxniPoQBTLBWIwLivPh0kXv-vUtm-hCeX2WOf6EOg6XXObKsKrwA"
+    },
+    {
+      "id": 14,
+      "name_skin": "Boys",
+      "install_skin": "https://lh3.googleusercontent.com/klE4B6-ZysCYDq4SK-Ed1el-Fv3vZKzpzk3EdWR5fKdzX5KY8PRCFLbBdkp8YKPN5Gy3qzwW_Ec1fNFWBJ7clw"
+    },
+    {
+      "id": 15,
+      "name_skin": "Boys",
+      "install_skin": "https://lh3.googleusercontent.com/gUhu4xEWR_PpCcsvR8vxWf1Anx2He9MtrTbye9gt_QmJeKRPCu8X70jqDHlcLpCpkAn4fNCxVC1XVepr9mtfoTg"
+    },
+    {
+      "id": 16,
+      "name_skin": "Boys",
+      "install_skin": "https://lh3.googleusercontent.com/hWCMe4PuidxOOJWO2Vmah7671_e2zfPp5F11COoQfn63b0-ivybSoZSdN2nANiRFOpQZHCWa0r7mXysKAC_TyQ"
+    },
+    {
+      "id": 17,
+      "name_skin": "Boys",
+      "install_skin": "https://lh3.googleusercontent.com/hav-MBoTeC51YHkRRGfFZ3MYUruRQtJPqqTRi0wLx8pPEi_ZtaViY3y7DVQFWzpmnUiX2l-3LymAIMAJkCwO"
+    },
+    {
+      "id": 18,
+      "name_skin": "Boys",
+      "install_skin": "https://lh3.googleusercontent.com/yD8zhGs6LYlpEUOcBS9W9ZxicEPKiozf13J2cbUCFq1-tQ6-BfYE9Vv9_yjgYojAcAbnB71MWmjAmgECXqV6-A"
+    },
+    {
+      "id": 19,
+      "name_skin": "Boys",
+      "install_skin": "https://lh3.googleusercontent.com/rbql6z6emZWsuXSA43TQxtC8_yM3iWpmtp7OGUidtfwUCGyMscx4otE8Kn61s8jIZFHL22JX3ZS6SayIhCxy"
+    },
+    {
+      "id": 20,
+      "name_skin": "Boys",
+      "install_skin": "https://lh3.googleusercontent.com/4fvops_RwgJy1692ZDo9VsBP3klVpOQVpnhfQdvufBftWuqTxGEsjaoT3zxWk6dhWsyW-3AwSpWHt9REXODrOlw"
+    },
+    {
+      "id": 21,
+      "name_skin": "Boys",
+      "install_skin": "https://lh3.googleusercontent.com/Ts3j49nRlN_te3hZjEgNjhq5wcgGj9g1wXBGeuli4LIgKSZ5ocaH_S6JK5vT0LayBrhZKac9LnYvk9jjW7VrsdY"
+    }
+  ]
+}
